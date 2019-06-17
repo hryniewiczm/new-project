@@ -3,3 +3,4 @@ mysite/__pycache__
 requirements.txt
 XDG_CACHE_HOME
 .vscode
+polls/__pycache__
